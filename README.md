@@ -2,15 +2,15 @@
 
 ![Collaboration Kit Banner](./docs/banner.png)
 
-# 🤖 Collaboration Kit
+# 🤖 Agent Collaborator Kit
 
 **Multi-Agent Workflow Framework cho AI Teams**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/collaboration-kit)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/handsomecat101/agent-team)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![Agents](https://img.shields.io/badge/Works%20with-Claude%20%7C%20Gemini%20%7C%20GPT-blueviolet)](https://github.com/yourusername/collaboration-kit)
+[![Agents](https://img.shields.io/badge/Works%20with-Claude%20%7C%20Gemini%20%7C%20Codex%20%7C%20Human-blueviolet)](https://github.com/handsomecat101/agent-team)
 
 *Một bộ template chuẩn để nhiều AI agents làm việc cùng nhau — không conflict, không quên context, không overlap.*
 
@@ -73,10 +73,10 @@ collaboration_kit/
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/collaboration-kit.git
+git clone https://github.com/handsomecat101/agent-team.git
 
 # Hoặc copy vào project hiện tại
-cp -r collaboration-kit/ ./your-project/.agent/
+cp -r agent-team/ ./your-project/.agent/
 ```
 
 ### Bước 2: Điền Thông Tin
@@ -302,8 +302,8 @@ MIT License — Tự do sử dụng, chỉnh sửa, và phân phối.
 
 <div align="center">
 
-**Collaboration Kit** — *Vì AI agents cũng cần teamwork*
+**Agent Collaborator Kit** — *Vì AI agents cũng cần teamwork*
 
-Made with ❤️ | [⬆️ Lên đầu trang](#-collaboration-kit)
+Made with ❤️ | [⬆️ Lên đầu trang](#-agent-collaborator-kit)
 
 </div>
