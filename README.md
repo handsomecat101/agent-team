@@ -300,10 +300,32 @@ MIT License — Tự do sử dụng, chỉnh sửa, và phân phối.
 
 ---
 
+## 🏆 Credits
+
+<div align="center">
+
+| Vai trò | Người thực hiện |
+|---------|----------------|
+| 💡 **Concept & Design** | [jimmyvu](https://github.com/handsomecat101) |
+| 🤖 **Built with AI** | Claude · Gemini · Codex |
+| 📐 **Architecture** | jimmyvu & AI Team |
+| 🎨 **Visual Design** | jimmyvu & AI Team |
+
+> *"Dự án này được xây dựng hoàn toàn trong tinh thần hợp tác giữa con người và AI —*
+> *chứng minh rằng khi Human + AI làm việc cùng nhau, không có gì là không thể."*
+>
+> — **jimmyvu & AI Team**
+
+</div>
+
+---
+
 <div align="center">
 
 **Agent Collaborator Kit** — *Vì AI agents cũng cần teamwork*
 
-Made with ❤️ | [⬆️ Lên đầu trang](#-agent-collaborator-kit)
+Designed & Built by **jimmyvu** & **AI Team** · Made with ❤️
+
+[⬆️ Lên đầu trang](#-agent-collaborator-kit)
 
 </div>
